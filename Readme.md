@@ -53,3 +53,5 @@ This repository focuses on a Dash application that visualizes the distribution o
 - **Running the App**: The application is executed with `app.run_server(debug=True)`.
 
 The source code for this application is available in this repository. Users can explore and modify the code to suit their analytical needs.
+# icp-nns-explorer-functions
+# icp-nns-explorer-functions
